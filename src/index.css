@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.Bg {
+  background-image: url("./Components/Images/Bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Snacks {
+  background-image: url("./Components/Images/Bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Protein {
+  background-image: url("./Components/Images/Protein.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Rice {
+  background-image: url("./Components/Images/Rice.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Soup {
+  background-image: url("./Components/Images/Soup.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Swallow {
+  background-image: url("./Components/Images/Eba.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Snack {
+  background-image: url("./Components/Images/Snacks.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Cake {
+  background-image: url("./Components/Images/Cake.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Ice-cream {
+  background-image: url("./Components/Images/Ice-Cream.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Drinks {
+  background-image: url("./Components/Images/Drinks.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Toppings {
+  background-image: url("./Components/Images/Toppings.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
