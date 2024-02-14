@@ -1,5 +1,5 @@
 import React from 'react'
-import { RxDividerHorizontal } from "react-icons/rx";
+import { RxDividerHorizontal } from 'react-icons/rx';
 import { Link } from "react-router-dom";
 import { FaArrowLeftLong } from "react-icons/fa6";
 

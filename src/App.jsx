@@ -1,6 +1,6 @@
 import React from 'react'
 // import WelcomeScreen from './WelcomeScreen'
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Menu from './Components/Menu'
 import Protein from './Components/Protein'
 import Rice from './Components/Rice'
