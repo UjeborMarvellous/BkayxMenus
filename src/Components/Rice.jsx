@@ -9,8 +9,8 @@ function Rice() {
             <h1 className=' text-center text-3xl font-semibold text-red-700 pt-7 pb-2'>Rice</h1>
             <div className="content mx-5">
                 <p className='text-lg py-1 flex justify-between'>Jambala Rice <span className='text-white text-4xl ml-20 my-auto'><RxDividerHorizontal /></span> 2700</p>
-                <p className='text-lg py-1 flex justify-between'>Fried Rice <span className='text-white text-4xl ml-[20%] my-auto'><RxDividerHorizontal /></span> 1800</p>
-                <p className='text-lg py-1 flex justify-between'>Jellof Rice <span className='text-white text-4xl ml-[9%] my-auto'><RxDividerHorizontal /></span> 1800</p>
+                <p className='text-lg py-1 flex justify-between'>Fried Rice <span className='text-white text-4xl ml-[20%] my-auto'><RxDividerHorizontal /></span> 2000</p>
+                <p className='text-lg py-1 flex justify-between'>Jellof Rice <span className='text-white text-4xl ml-[9%] my-auto'><RxDividerHorizontal /></span> 2000</p>
                 <p className='text-lg py-1 flex justify-between'>Ofada Rice and Sauce <span className='text-white text-4xl ml-11 my-auto'><RxDividerHorizontal /></span> 2500</p>
                 <p className='text-lg py-1 flex justify-between'>Sauce <span className='text-white text-4xl ml-2 my-auto'><RxDividerHorizontal /></span> 500</p>
                 <p className='text-lg py-1 flex justify-between'>Native Rice <span className='text-white text-4xl ml-24 my-auto'><RxDividerHorizontal /></span> 2200</p>
