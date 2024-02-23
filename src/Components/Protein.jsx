@@ -12,6 +12,7 @@ function Protein() {
                 <p className='text-lg py-1 flex justify-between'>Chicken <span className='text-white text-4xl ml-[20%] my-auto'><RxDividerHorizontal /></span> 2500</p>
                 <p className='text-lg py-1 flex justify-between'>Chicken Lap <span className='text-white text-4xl ml-[9%] my-auto'><RxDividerHorizontal /></span> 3500</p>
                 <p className='text-lg py-1 flex justify-between'>Goat Meat <span className='text-white text-4xl ml-11 my-auto'><RxDividerHorizontal /></span> 1500</p>
+                <p className='text-lg py-1 flex justify-between'>Goat Meat <span className='text-white text-4xl ml-11 my-auto'><RxDividerHorizontal /></span> 1700</p>
                 <p className='text-lg py-1 flex justify-between'>Big Cow Head <span className='text-white text-4xl ml-2 my-auto'><RxDividerHorizontal /></span> 2000</p>
                 <p className='text-lg py-1 flex justify-between'>Beef <span className='text-white text-4xl ml-24 my-auto'><RxDividerHorizontal /></span> 1000</p>
                 <p className='text-lg py-1 flex justify-between'>Dry Fish <span className='text-white text-4xl ml-14 my-auto'><RxDividerHorizontal /></span> 1700</p>
